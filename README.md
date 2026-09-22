@@ -1,1 +1,1 @@
-# Pujo
+Pujo app for pandal hopping
