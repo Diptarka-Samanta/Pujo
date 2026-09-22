@@ -4,3 +4,4 @@ Keep direction of pujo pandals
 Mark famous pujo pandals
 Share pictures
 rate the pandals
+Rank the pujo pandals based on ratings
