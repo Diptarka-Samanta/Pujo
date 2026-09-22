@@ -5,3 +5,4 @@ Mark famous pujo pandals
 Share pictures
 rate the pandals
 Rank the pujo pandals based on ratings
+Mark new pandals and treat as dataset
